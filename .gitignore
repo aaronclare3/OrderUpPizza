@@ -1,0 +1,158 @@
+# .gitignore for ASP.NET Core
+
+# .NET
+bin/
+obj/
+
+# Visual Studio
+.vscode/
+.vs/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Rider
+.idea/
+
+# NuGet
+*.nuget.props
+*.nuget.targets
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Package Files #
+# *.nupkg
+# # TODO: If the 'Exclude' list grows large, consider not using the
+# # 'Exclude' list at all, and using a '.gitattributes' instead.
+# # GitHub will ignore files mentioned in '.gitattributes' as
+# # if they were listed in '.gitignore'.
+# # https://help.github.com/articles/customizing-the-automatic-trash-filter
+
+# .NET Scaffolding
+ScaffoldingTemplates/
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Package Files #
+# *.nupkg
+# TODO: If the 'Exclude' list grows large, consider not using the
+# 'Exclude' list at all, and using a '.gitattributes' instead.
+# GitHub will ignore files mentioned in '.gitattributes' as
+# if they were listed in '.gitignore'.
+# https://help.github.com/articles/customizing-the-automatic-trash-filter
+
+# .NET Scaffolding
+ScaffoldingTemplates/
+
